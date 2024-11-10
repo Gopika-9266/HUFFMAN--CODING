@@ -1,7 +1,3 @@
-## Name : Gopika R
-## Reg No : 212222240031
-## Date :
-
 # Huffman-Coding
 ## Aim :
 To implement Huffman coding to compress the data using Python.
@@ -26,6 +22,10 @@ calculate frequency of occurence
 print the characters and its huffmancode
  
 ## Program:
+```
+Name : Gopika R
+Reg No : 212222240031
+```
 ```
 # Get the input String
 string ="Gopika"
